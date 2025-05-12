@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @A-Manning91
+- 👋 Hi, I’m Alexis Manning
 Overview
 
 Results-driven data analyst with 7+ years of experience transforming complex data into actionable marketing and business insights. Skilled in SQL and data visualization to optimize campaigns, enhance customer segmentation, and drive strategic decision-making. Proven ability to improve marketing efficiency, streamline operations, and uncover growth opportunities through data-driven analysis. Passionate about leveraging analytics to maximize business impact and create measurable success.
